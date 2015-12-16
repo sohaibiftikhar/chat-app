@@ -1,2 +1,5 @@
 .idea
+*.iml
 assets/img
+chat-app/build
+chat-app/build-gradle
